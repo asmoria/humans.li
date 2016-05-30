@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>{{ .Site.Title }} &middot; {{ .Title }}</title>
+    <meta name="generator" content="Hugo 0.15" />
+    <link href="/css/all.css" rel="stylesheet" />
+    <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300|Montserrat:700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+
+  </head>
+  <body>
+    <div id="wrap">
+      <div id="head">
+	<h1>
+	  <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	</h1>
+	{{ partial "menu.html" . }}
+      </div>
+      <div id="content">
