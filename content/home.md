@@ -1,10 +1,8 @@
 +++
 title = "Home"
-url = "index.html"
-type = "index"
+url = "/index.html"
+type="index"
 +++
-
-
 
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/carousel01.jpg" height="620"/>
