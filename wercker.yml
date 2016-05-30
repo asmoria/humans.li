@@ -1,0 +1,17 @@
+build:
+  box: samueldebruyn/hugo-build
+  steps:
+    - arjen/hugo-build:
+        version: 0.15
+        flags: --buildDrafts=false
+
+deploy:
+  box: samueldebruyn/debian-git
+  steps:
+    - leipert/git-push:
+        gh_oauth: $GIT_TOKEN
+        basedir: public
+        clean_removed_files: true
+        branch: gh-pages
+        repo: asmoria/humans.li
+        gh_pages_domain: humans.li
