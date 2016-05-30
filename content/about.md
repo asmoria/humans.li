@@ -5,7 +5,7 @@ weight=200
 +++
 <h1>Über Uns</h1>
 
-Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur im Fürstentum Liechtenstein einsetzen. 
+Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur im Fürstentum Liechtenstein einsetzen. Wir arbeiten eng zusammen mit dem [Haus am Gleis](www.hausamgleis.li) sowie der [Initiative praktische Hilfe Liechtenstein](www.praktische-hilfe.li)
 
 <h2>Projektleitung & Regie - Alice Schönenberger</h2>
 
