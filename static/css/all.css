@@ -105,3 +105,11 @@ ul#mainmenu > li > a:hover {
     padding: 0px;
     display: block;
 }
+label {
+    font-weight: bold;
+}
+
+label, textarea, input {
+    display: block;
+}
+
