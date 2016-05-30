@@ -15,3 +15,4 @@ deploy:
         branch: gh-pages
         repo: asmoria/humans.li
         gh_pages_domain: humans.li
+        
