@@ -8,7 +8,7 @@ weight = 300
 <h1>Gallerie/Presse</h1>
 </br> 
 </br>
-Vergangenes Jahr lancierte ich mit [Refugees](www.therefugees.ch) meine erste Regiearbeit im Fürstentum Liechtenstein.
+Vergangenes Jahr lancierte ich mit [Refugees](www.therefugees.ch) meine erste Regiearbeit im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
 
 *  <a href="/VaterlandKritik.pdf">
     02.12.15 Alleine unter so vielen Menschen
