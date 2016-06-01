@@ -1,5 +1,5 @@
 +++
-title = "Das Stueck"
+title = "Das Stück"
 [menu.main]
 weight = 100
 +++
