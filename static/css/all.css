@@ -93,10 +93,9 @@ ul#mainmenu > li > a:hover {
     left: -30px;
     padding: 10px 10px 10px 30px;
     background-color: #2a2421;
-    display: inline;
+    display: table-cell;
     color: #C69C89;
     font-weight: 100;
-    margin: 0px 0px 10px 0px;
     clear: both;
 }
 
