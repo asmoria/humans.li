@@ -9,7 +9,7 @@ weight = 100
 <p>
 <img src="/flyerfront2.jpg" width= 800px/></p>
 
-<FONT SIZE="5"><b><i>"Wenn ich Du wäre, wäre ich trotzdem lieber ich"</i></b></font><br>
+<FONT SIZE="6"><i>"Wenn ich Du wäre, wäre ich trotzdem lieber ich"</i></font><br>
 <FONT SIZE="4">
 Humans lädt ein auf eine absurde Entdeckungsreise des Menschseins. Ein waghalsiger Versuch, ein theatrales Labor zum Erforschen der grossen Fragen und der Formel des Lebens oder eben warum die Erde manchmal doch nur eine heisse Kartoffel ist irgendwo in der Milchstrasse links…</Font></center>
 

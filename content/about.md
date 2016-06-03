@@ -5,10 +5,10 @@ weight=200
 +++
 <h1>Über Uns</h1>
 
-Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur im Fürstentum Liechtenstein einsetzen. 
-Wir möchten multilinguales und interkulturelles fördern, für uns ist Theater ist kein Konsumgut, sondern ein Erlebnis, sowohl für den Darsteller als auch für das Publikum. 
+Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur einsetzen. 
+Wir möchten interdisziplinäres und interkulturelles fördern, für uns ist Theater ist kein Konsumgut, sondern ein Erlebnis, sowohl für den Darsteller als auch für das Publikum. 
 
-Die Bühne als Ort der Begenung: Bei Humans treffen Einheimische und Menschen aus aller Welt in einem absurden Bewegungsstück zusammen um das Menschsein im Kollektiv zu ergründen. 
+Die Bühne als Ort der Begenung: Bei Humans treffen Menschen aus aller Welt in einem absurden Bewegungsstück zusammen um das Menschsein im Kollektiv zu ergründen. Verrückt und waghalsig. Metaphysisch und doch am Boden der Tatsachen. 
 Irgendwo zwischen Stephen Hawkings <i>universe in a nutshell</i> und Dantes <i>Inferno</i>.
 
 Wir arbeiten eng zusammen mit dem [Haus am Gleis](www.hausamgleis.li) sowie der [Initiative praktische Hilfe Liechtenstein](www.praktischehilfe.li)
