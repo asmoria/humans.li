@@ -4,11 +4,10 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay">
-  <h1>Premiere: Freitag 01.07.2016, Schaan FL</h1>
-  <br/>
-  <br/>
-  <br/>
-  <h2>Ein Theaterlabor unter freiem Himmel</h2>
+  <h1>Premiere: Freitag 01.07.2016/20.15 Uhr</h1>
+  <br/> 
+<h2>Ein Theaterlabor unter freiem Himmel</h2><br/>
+  <h3><span style="color:#BADA55">Haus am Gleis, Schaan FL </span></h2>
   <br/>
   <br/>
   <br/>
