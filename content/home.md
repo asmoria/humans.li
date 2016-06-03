@@ -3,7 +3,19 @@ title = "Home"
 url = "/index.html"
 type="index"
 +++
-
+<div class="overlay">
+  <h1>Premiere: Freitag 01.07.2016, Schaan FL</h1>
+  <br/>
+  <br/>
+  <br/>
+  <h2>Ein Theaterlabor unter freiem Himmel</h2>
+  <br/>
+  <br/>
+  <br/>
+  <!--
+  <h3>"Wenn ich du waere, waere ich trotzdem lieber ich"</h3>
+  -->
+</div>
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/carousel01.jpg" height="620"/>
   <img src="images/carousel02.jpg" height="620"/>

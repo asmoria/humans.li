@@ -96,6 +96,8 @@ ul#mainmenu > li > a:hover {
     display: inline;
     color: #C69C89;
     font-weight: 100;
+    margin: 0px 0px 10px 0px;
+    clear: both;
 }
 
 #foot, #foot a {
@@ -108,9 +110,9 @@ ul#mainmenu > li > a:hover {
 }
 
 #carousel {
-    margin: 20px;
+    /*margin: 20px;*/
     padding: 0px;
-    display: block;
+    display: inline;
 }
 label {
     font-weight: bold;
@@ -120,3 +122,13 @@ label, textarea, input {
     display: block;
 }
 
+div.overlay {
+    margin: 30px 0px 30px 0px;
+    position: absolute;
+    z-index: 1000;
+}
+
+div.overlay h1, div.overlay h2, div.overlay h3  {
+    /*display: block !important;*/
+    margin: 10px;
+}
