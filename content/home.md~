@@ -4,16 +4,22 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay">
-  <h1>Premiere: Freitag 01.07.2016 20.15 Uhr</h1>
-  <br/>
+  <h1>Premiere: Freitag 01.07.2016/20.15 Uhr</h1>
+  <br/> 
 <h2>Ein Theaterlabor unter freiem Himmel</h2><br/>
   <h3><span style="color:#BADA55">Haus am Gleis, Schaan FL </span></h2>
   <br/>
   <br/>
   <br/>
-  <!--
-  <h3>"Wenn ich du waere, waere ich trotzdem lieber ich"</h3>
-  -->
+<br/>
+  <br/>
+  <br/>
+ <br/>
+  <br/>
+  <br/>
+<br/>
+<img src="images/logomigros1.png" height="60"/>
+
 </div>
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/carousel01.jpg" height="620"/>

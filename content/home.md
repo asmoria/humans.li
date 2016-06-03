@@ -11,9 +11,15 @@ type="index"
   <br/>
   <br/>
   <br/>
-  <!--
-  <h3>"Wenn ich du waere, waere ich trotzdem lieber ich"</h3>
-  -->
+<br/>
+  <br/>
+  <br/>
+ <br/>
+  <br/>
+  <br/>
+<br/>
+<img src="images/logomigros2.jpg" height="60"/>
+
 </div>
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="images/carousel01.jpg" height="620"/>
