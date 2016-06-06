@@ -4,6 +4,7 @@ title = "Über Uns"
 weight=200
 +++
 <h1>Über Uns</h1>
+
 Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur einsetzen. Das Projekt soll uns verbinden und Grenzen aufweichen, ein Beispiel werden für eine alternative und freie Theaterkultur. Wir wollen zeigen, dass ein ambitioniertes Bewegungsstück mit Laien möglich ist und ein vielseitiges Publikum ansprechen kann. Theater ist kein Konsumgut, sondern ein Erlebnis, sowohl für den Darsteller als auch für das Publikum. 
 
 Wir arbeiten eng zusammen mit dem [Haus am Gleis](www.hausamgleis.li) sowie der [Initiative praktische Hilfe Liechtenstein](www.praktischehilfe.li)
