@@ -21,7 +21,9 @@ Wir freuen uns auf ihre Kontaktaufnahme
 	<input type="hidden" name="_next" value="http://humans.li/message-sent" />
 </form></p>
 
-<FONT SIZE="2">© 2016 www.humans.li <br/>
-Texte & Inhalte by Alice Schönenberger </br>
+<FONT SIZE="2">© 2016 www.humans.li <a target="_blank" title="find us on Facebook" href="http://www.facebook.com/humans.theater"> <img alt="find us on facebook" src="//login.create.net/images/icons/user/facebook-b_130x50.png" class="intext"style="float: right; margin: 0px;"></a>
+</br>Texte & Inhalte by Alice Schönenberger </br>
 info[at]humans.li
 <br/>
+
+

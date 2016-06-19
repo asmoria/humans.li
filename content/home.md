@@ -34,7 +34,7 @@ $('.carousel').slick({
   slidesToScroll: 1,
   autoplay: true,
   fade: true,
-  autoplaySpeed: 3500,
+  autoplaySpeed: 4500,
   prevArrow: null,
   nextArrow: null,
   pauseOnHover: false,
