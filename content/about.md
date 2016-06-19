@@ -7,7 +7,7 @@ weight=200
 
 Hinter Humans steckt ein Team aus engagierten Menschen, die sich für eine freie Theaterkultur einsetzen. Das Projekt soll uns verbinden und Grenzen aufweichen, ein Beispiel werden für eine alternative und freie Theaterkultur. Wir wollen zeigen, dass ein ambitioniertes Bewegungsstück mit Laien möglich ist und ein vielseitiges Publikum ansprechen kann. Theater ist kein Konsumgut, sondern ein Erlebnis, sowohl für den Darsteller als auch für das Publikum. 
 
-Wir arbeiten eng zusammen mit dem [Haus am Gleis](www.hausamgleis.li) sowie der [Initiative praktische Hilfe Liechtenstein](www.praktischehilfe.li)
+Wir arbeiten eng zusammen mit dem <a href="http://www.hausamgleis.li">Haus am Gleis</a> sowie der<a href="http://praktischehilfe.li"> Initiative praktische Hilfe Liechtenstein.</a>
 
 <h2> Die Darsteller - Humans</h2>
 Die Bühne als Ort der Begenung: Bei Humans treffen Menschen aus aller Welt in einem absurden Bewegungsstück zusammen um das Menschsein im Kollektiv zu ergründen. Verrückt und waghalsig. Metaphysisch und doch am Boden der Tatsachen. 
@@ -16,7 +16,7 @@ Irgendwo zwischen Stephen Hawkings <i>universe in a nutshell</i> und Dantes <i>I
 
 <h2>Projektleitung & Regie - Alice Schönenberger</h2>
 
-<img src="/alice.jpg" style="float: right; margin: 10px;" class="intext" width= "180px" height="180px"</img> Die St.Gallerin mit liechtensteiner Wurzeln studierte Theater- und Bewegungsschauspiel an der comart. (Abschluss 2013) Sie ist der kreative Kopf hinter Humans, lebt und arbeitet in Zürich und ist in diversen Theaterprojekten involviert.  Mal ist sie mit dem Reisetheater unterwegs, experimentiert mit Masken, der commedia dell'arte, Schwarzlicht, Schattentheater, stets auf der Suche nach neuen Ausdrucksformen. Mit dem interdisziplinären Theaterstück [Refugees](www.therefugees.ch) befasste sie sich mit der Flüchtlingsthematik und lancierte 2015 ihre erste grosse Regiearbeit im Fürstentum Liechtenstein. 
+<img src="/alice.jpg" style="float: right; margin: 10px;" class="intext" width= "180px" height="180px"</img> Die St.Gallerin mit liechtensteiner Wurzeln studierte Theater- und Bewegungsschauspiel an der comart. (Abschluss 2013) Sie ist der kreative Kopf hinter Humans, lebt und arbeitet in Zürich und ist in diversen Theaterprojekten involviert.  Mal ist sie mit dem Reisetheater unterwegs, experimentiert mit Masken, der commedia dell'arte, Schwarzlicht, Schattentheater, stets auf der Suche nach neuen Ausdrucksformen. Mit dem interdisziplinären Theaterstück <a href="http://www.therefugees.ch">Refugees</a> befasste sie sich mit der Flüchtlingsthematik und lancierte 2015 ihre erste grosse Regiearbeit im Fürstentum Liechtenstein. 
 
 <h2>Regie- & Produktionsassistenz - Anna Wössner</h2>
 

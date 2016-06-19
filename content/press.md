@@ -7,7 +7,7 @@ weight = 300
 
 <h1>Gallerie/Presse</h1>
 
-Vergangenes Jahr feierte [Refugees](www.therefugees.ch) sein Debut im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
+Vergangenes Jahr feierte <a href="http://www.therefugees.ch">Refugees</a> sein Debut im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
 
 *  <a href="/VaterlandKritik.pdf">
     02.12.15 Alleine unter so vielen Menschen
