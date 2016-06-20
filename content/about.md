@@ -13,6 +13,8 @@ Wir arbeiten eng zusammen mit dem <a href="http://www.hausamgleis.li">Haus am Gl
 Die Bühne als Ort der Begenung: Bei Humans treffen Menschen aus aller Welt in einem absurden Bewegungsstück zusammen um das Menschsein im Kollektiv zu ergründen. Verrückt und waghalsig. Metaphysisch und doch am Boden der Tatsachen. 
 Irgendwo zwischen Stephen Hawkings <i>universe in a nutshell</i> und Dantes <i>Inferno</i>.
 </br>
+Es spielen: Es spielen: Noam Mayer, Marco Guilo Libener, Anna Wössner, Parviz Khazaei und Wellington de Röckle.
+</br>
 
 <h2>Projektleitung & Regie - Alice Schönenberger</h2>
 
