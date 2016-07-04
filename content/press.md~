@@ -5,17 +5,28 @@ name = "Gallerie/Presse"
 weight = 300
 +++
 
-<h1>Gallerie/Presse</h1>
+<h1>Gallerie/Presse</h1> <br/>
+<h2>Impressionen zu Humans</h2>
 
-Vergangenes Jahr feierte [Refugees](www.therefugees.ch) sein Debut im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
-
-*  <a href="/VaterlandKritik.pdf">
-    02.12.15 Alleine unter so vielen Menschen
-  </a>
-
-* <a href="/RadioLRefugees.MP3"> Bei den Proben mit Radio L </a>
-
+<div class="carousel" style="width: 900px; height: 620px;">
+  <img src="/images/premiereende.jpg" height="620"/>
+  <img src="/images/ichsolo.jpg" height="620"/>
+  <img src="/images/3monkeys.jpg" height="620"/>
+  <img src="/images/zirkus.jpg" height="620"/>
+</div>
+<br/>
 <h2> Impressionen zu Refugees</h2>
+
+Vergangenes Jahr feierte <a href="http://www.therefugees.ch">Refugees</a> sein Debut im Fürstentum Liechtenstein. Im Februar 2016 gastierten wir im Kulturhaus Helferei in Zürich. 
+<br/>
+
+<ul>
+  <li><a href="/VaterlandKritik.pdf">
+    02.12.15 Alleine unter so vielen Menschen
+  </a></li>
+
+  <li><a href="/RadioLRefugees.MP3"> Bei den Proben mit Radio L </a></li>
+</ul>
 
 <div class="carousel" style="width: 900px; height: 620px;">
   <img src="/images/helfereiprobe2.jpg" height="620"/>
