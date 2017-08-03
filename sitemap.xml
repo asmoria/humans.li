@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://humans.li/stueck/</loc>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/press/</loc>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/index.html</loc>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/message-sent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://humans.li/about/</loc>
+  </url>
+  
+</urlset>
